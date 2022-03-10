@@ -1,0 +1,2 @@
+# JavaScript
+Modulo 2
